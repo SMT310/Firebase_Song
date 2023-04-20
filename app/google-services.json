@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876322228585",
+    "project_id": "fir-song-e84e3",
+    "storage_bucket": "fir-song-e84e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876322228585:android:69b98ca74e50c6e4a3d5f8",
+        "android_client_info": {
+          "package_name": "com.example.firebase_song"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876322228585-0csisfbla8fbsqsv7bs4gm51fm8fncek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3TyjjKw8oZHOZ42wGg2-WrYbdIYiQwhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876322228585-0csisfbla8fbsqsv7bs4gm51fm8fncek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
